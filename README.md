@@ -1,7 +1,7 @@
 # SecureTasks
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://securetasks.vercel.app)
+[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://securetasks.vercel.app/login)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -58,6 +58,11 @@ npm install
 # Start local development
 npm run dev
 ```
+
+---
+
+## 🌐 Live Demo
+🔗 **[View SecureTasks Live on Vercel](https://securetasks.vercel.app/login)**
 
 ---
 
