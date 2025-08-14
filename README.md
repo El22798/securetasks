@@ -62,7 +62,7 @@ npm run dev
 ---
 
 ## 🌐 Live Demo
-🔗 **[View SecureTasks Live on Vercel](https://securetasks.vercel.app/login)**
+🔗 **[View SecureTasks Live on Vercel](https://securetasks.vercel.app/)**
 
 ---
 
